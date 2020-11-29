@@ -13,7 +13,6 @@ public class BuyChestnutRamdon {
 		int total =chestnut_price*chestnut_num;
 		System.out.println("合計金額："+total+"円");
 
-		System.out.println("草生えるのか？");
 	}
 
 }
